@@ -1,0 +1,6 @@
+data = email_string.split()
+first_names = []
+last_names = []
+raw_emails = []
+emails = []
+
